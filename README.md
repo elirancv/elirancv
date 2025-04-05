@@ -46,8 +46,8 @@ I'm an IT Infrastructure & Systems Expert specializing in designing and implemen
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elirancv&theme=nord_bright" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elirancv&theme=nord_bright" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=elirancv&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=00000000&text_color=00A4EF&icon_color=00A4EF&title_color=00A4EF&card_width=500" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elirancv&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&text_color=00A4EF&icon_color=00A4EF&title_color=00A4EF" alt="Top Languages"/>
 </div>
 
 ## 🔗 Connect With Me
@@ -69,7 +69,6 @@ I'm an IT Infrastructure & Systems Expert specializing in designing and implemen
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A4EF,100:2b3137&height=100&section=footer" />
 </div> 
-
 
 
 <!--
