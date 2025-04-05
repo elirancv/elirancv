@@ -29,7 +29,7 @@ I'm an IT Infrastructure & Systems Expert specializing in designing and implemen
 - **Infrastructure**: Enterprise Systems, Cloud Platforms, Virtualization
 - **Networking**: Architecture, Security, Performance Optimization
 - **Systems**: Windows Server, Linux, macOS, Cloud Services
-- **Deployment Tools**: SCCM, MDT, WDS
+- **Deployment Tools**: SCCM, MDT, WDS, Intune
 - **Automation**: Process Automation, Workflow Optimization
 - **Automation Tools**: Zapier, Make, IFTTT, Power Automate, n8n
 - **RPA Tools**: UiPath, Automation Anywhere, Blue Prism, Power Automate Desktop
