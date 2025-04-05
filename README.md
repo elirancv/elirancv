@@ -60,13 +60,12 @@ I'm an IT Infrastructure & Systems Expert specializing in designing and implemen
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=2b3137" />
   </a>
   <br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felirancv&count_bg=%2300A4EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true"/>
+  <img src="https://komarev.com/ghpvc/?username=elirancv&color=00A4EF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A4EF,100:2b3137&height=100&section=footer" />
 </div> 
-
 
 
 <!--
