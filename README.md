@@ -21,13 +21,15 @@ IT Infrastructure & Systems expert based in Israel. I design and operate enterpr
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows,linux,apple,bash,powershell,py,qt,git,github,vscode,supabase,vercel,netlify&perline=7&theme=light">
     <img src="https://skillicons.dev/icons?i=windows,linux,apple,bash,powershell,py,qt,git,github,vscode,supabase,vercel,netlify&perline=7&theme=dark" alt="Windows, Linux, macOS, Bash, PowerShell, Python, Qt, Git, GitHub, VS Code, Supabase, Vercel, Netlify"/>
   </picture>
-</div>
+  <br>
 
 | Specialty | Daily drivers |
 |-----------|---------------|
 | Endpoint & deployment | Intune, SCCM, MDT, WDS |
 | Automation & RPA | Power Automate, n8n, Make, Zapier, UiPath |
 | AI-assisted development | Claude Code, Cursor, GitHub Copilot |
+
+</div>
 
 ## 🌟 Featured Public Projects
 
