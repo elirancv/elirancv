@@ -17,10 +17,20 @@ IT Infrastructure & Systems expert based in Israel. I design and operate enterpr
 ## 🧰 Tech Stack
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows,linux,apple,bash,powershell,py,qt,git,github,vscode,supabase,vercel,netlify&perline=7&theme=light">
-    <img src="https://skillicons.dev/icons?i=windows,linux,apple,bash,powershell,py,qt,git,github,vscode,supabase,vercel,netlify&perline=7&theme=dark" alt="Windows, Linux, macOS, Bash, PowerShell, Python, Qt, Git, GitHub, VS Code, Supabase, Vercel, Netlify" title="Windows · Linux · macOS · Bash · PowerShell · Python · Qt — Git · GitHub · VS Code · Supabase · Vercel · Netlify"/>
-  </picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows&theme=light"><img width="48" src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" title="Windows"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&theme=light"><img width="48" src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=apple&theme=light"><img width="48" src="https://skillicons.dev/icons?i=apple&theme=dark" alt="macOS" title="macOS"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash&theme=light"><img width="48" src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=powershell&theme=light"><img width="48" src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell" title="PowerShell"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py&theme=light"><img width="48" src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=qt&theme=light"><img width="48" src="https://skillicons.dev/icons?i=qt&theme=dark" alt="Qt" title="Qt"/></picture>
+  <br>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light"><img width="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light"><img width="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light"><img width="48" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=supabase&theme=light"><img width="48" src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel&theme=light"><img width="48" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=netlify&theme=light"><img width="48" src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" title="Netlify"/></picture>
   <br><br>
 
 | Specialty | Daily drivers |
