@@ -33,7 +33,7 @@ I'm an IT Infrastructure & Systems Expert specializing in designing and implemen
 - **Automation**: Process Automation, Workflow Optimization
 - **Automation Tools**: Zapier, Make, IFTTT, Power Automate, n8n
 - **RPA Tools**: UiPath, Automation Anywhere, Blue Prism, Power Automate Desktop
-- **Development**: ChatGPT, GitHub Copilot, Cursor, Lovable, Windsurf
+- **Development**: Claude Code, Cursor, ChatGPT, GitHub Copilot, Lovable, Windsurf
 - **Cloud Services**: Supabase, Netlify, Vercel
 
 ## 🌟 Featured Projects
