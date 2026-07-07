@@ -21,7 +21,7 @@ IT Infrastructure & Systems expert based in Israel. I design and operate enterpr
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows,linux,apple,bash,powershell,py,qt,git,github,vscode,supabase,vercel,netlify&perline=7&theme=light">
     <img src="https://skillicons.dev/icons?i=windows,linux,apple,bash,powershell,py,qt,git,github,vscode,supabase,vercel,netlify&perline=7&theme=dark" alt="Windows, Linux, macOS, Bash, PowerShell, Python, Qt, Git, GitHub, VS Code, Supabase, Vercel, Netlify"/>
   </picture>
-  <br>
+  <br><br>
 
 | Specialty | Daily drivers |
 |-----------|---------------|
